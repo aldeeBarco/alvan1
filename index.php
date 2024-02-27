@@ -1,4 +1,4 @@
 <?php 
-echo "huawei";
+echo "vivo";
 
  ?>
